@@ -59,7 +59,7 @@ Each backtest run records key performance metrics, including:
 - **Worst Trade (%)**: The biggest loss from a single trade.
 
 ## Results
-
+images/result.png
 
 ## Visualization
 
