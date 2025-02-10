@@ -96,9 +96,9 @@ This project demonstrates a systematic approach to backtesting a forex trading s
 *Shiwang Upadhyay*
 
 ### **Contributors**
-Shiwang Upadhyay
-Siddhant Mishra
-Pratyush Arya
+- Shiwang Upadhyay
+- Siddhant Mishra
+- Pratyush Arya
 
 ### **License**
 This project is open-source and available under the MIT License.
