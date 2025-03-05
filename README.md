@@ -1,5 +1,4 @@
 # 5_min_XAUUSD_strategy
-# RSI-EMA Trading Strategy Backtesting
 
 ## Overview
 This project implements and backtests an RSI-EMA-based trading strategy for the XAU/USD (Gold/USD) forex pair using the **Backtesting.py** library. The strategy is designed to identify optimal entry and exit points based on Relative Strength Index (RSI) and Exponential Moving Average (EMA) conditions. The backtesting process evaluates various parameter combinations to find the most profitable configuration.
